@@ -12,7 +12,6 @@ from torch.utils.tensorboard import SummaryWriter
 from my_dataset import MyDataSet
 from nets.WDCNN import *
 import time
-import preprocess
 import numpy as np
 from utils import read_split_data
 
